@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana García",
+    "edad": 20,
+    "curso": "Ingeniería",
+    "notas": {
+      "matematicas": 8.5,
+      "programacion": 9.2,
+      "fisica": 7.8
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Luis Pérez",
+    "edad": 22,
+    "curso": "Derecho",
+    "notas": {
+      "constitucional": 7.0,
+      "penal": 8.1,
+      "civil": 6.9
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "María López",
+    "edad": 19,
+    "curso": "Medicina",
+    "notas": {
+      "biologia": 9.5,
+      "quimica": 8.7,
+      "anatomia": 9.0
+    }
+  }
+]
